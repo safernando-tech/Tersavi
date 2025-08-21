@@ -1,6 +1,6 @@
 Step one install python
 
-Step two On mac 'pip3 install --user certifi' installed in your terminal On PC 'pip nstall --user certifi' in your terminal
+Step two On mac 'pip3 install --user certifi' installed in your terminal On PC 'pip install --user certifi' in your terminal
 
 Step 3 in terminal python3 tersavi.py
 
